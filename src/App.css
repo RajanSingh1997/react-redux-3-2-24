@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+/*  */
+.btn-wrapper button{
+  background-color: red;
+  border: 0px;
+  padding: 10px;
+  border-radius: 4px;
+  color: white;
+}
+
+.img-wrapper img {
+  width: 200px;
+}
+.cart-wrapper{
+  height: auto;
+  width: auto;
+  border: 2px solid #ccc;
+  
+}
+.add-to-cart img{
+  width: 50px;
+  position: absolute;
+  right: 1%;
+  top: 1%;
+}
+/*  */
